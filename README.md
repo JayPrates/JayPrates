@@ -11,6 +11,8 @@ Languages / Frameworks:
     Next.JS
     HTML
     CSS
+    Node
+    MongoDB
     Typescript
 
 
