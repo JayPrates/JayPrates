@@ -5,11 +5,12 @@
 
 
 Languages / Frameworks:
-
-    HTML
-    CSS
+    
     Javascript
     React
+    Next.JS
+    HTML
+    CSS
     Typescript
 
 
