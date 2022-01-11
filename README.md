@@ -9,6 +9,7 @@ Languages / Frameworks:
     Javascript
     React
     Next.JS
+    Redux
     HTML
     CSS
     Node
