@@ -8,8 +8,8 @@ Languages / Frameworks:
     
     Javascript
     React
-    Next.JS
     Redux
+    Next.JS
     HTML
     CSS
     Node
